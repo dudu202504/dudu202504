@@ -8,7 +8,7 @@ Descrição:  "olá eu sou o edurado um estudante de progrmação e estou estuda
 
 
 
-###😃linguagens e tecnologia
+###😃linguagens e tecnologia.
 
 
 <ul>  
