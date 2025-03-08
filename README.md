@@ -1,16 +1,17 @@
-## Hi there 👋
+# Eduardo
 
-<!--
-**dudu202504/dudu202504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**`´estudante de programação`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Descrição:  "olá eu sou o edurado um estudante de progrmação e estou estudando unity no momento."
+
+
+
+###😃linguagens e tecnologia
+
+
+<ul>  
+  <li> unity  </li>
+
+</ul>
