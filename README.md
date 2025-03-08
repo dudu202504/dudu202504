@@ -4,7 +4,7 @@
 **`´estudante de programação`
 
 
-Descrição:  "olá eu sou o edurado um estudante de progrmação e estou estudando unity no momento."
+Descrição:  "olá eu sou o edurdo um estudante de progrmação e estou estudando unity no momento."
 
 
 
